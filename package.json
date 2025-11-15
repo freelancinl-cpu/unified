@@ -1,0 +1,19 @@
+{
+  "name": "unified-bike-sales-crm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Unified Bike Sales & CRM application",
+  "scripts": {
+    "build": "esbuild index.tsx --bundle --outfile=./public/index.js --jsx=automatic --loader:.svg=text"
+  },
+  "dependencies": {
+    "react": "^19.0.0-rc.0",
+    "react-dom": "^19.0.0-rc.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "esbuild": "^0.21.4",
+    "typescript": "^5.4.5"
+  }
+}

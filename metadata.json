@@ -1,0 +1,5 @@
+{
+  "name": "Unified Bike Sales & CRM",
+  "description": "A single, unified CRM application for bike showrooms to provide a Single Customer View (SCV) and manage sales transactions across all branches. Staff can instantly retrieve a customer's complete purchase history using unique identification keys like CNIC, mobile number, or full name.",
+  "requestFramePermissions": []
+}
